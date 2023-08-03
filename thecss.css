@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+.input-box {
+  margin-top: 40vh;
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
+}
+
+.result {
+  margin-top: 10px;
+  font-size: 18px;
+}
